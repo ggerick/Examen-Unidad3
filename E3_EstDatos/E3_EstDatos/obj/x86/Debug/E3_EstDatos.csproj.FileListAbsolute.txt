@@ -1,0 +1,6 @@
+/Users/AlanGarcia/Projects/E3_EstDatos/E3_EstDatos/bin/Debug/E3_EstDatos.exe
+/Users/AlanGarcia/Projects/E3_EstDatos/E3_EstDatos/bin/Debug/E3_EstDatos.pdb
+/Users/AlanGarcia/Projects/E3_EstDatos/E3_EstDatos/obj/x86/Debug/E3_EstDatos.csprojAssemblyReference.cache
+/Users/AlanGarcia/Projects/E3_EstDatos/E3_EstDatos/obj/x86/Debug/E3_EstDatos.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Projects/E3_EstDatos/E3_EstDatos/obj/x86/Debug/E3_EstDatos.exe
+/Users/AlanGarcia/Projects/E3_EstDatos/E3_EstDatos/obj/x86/Debug/E3_EstDatos.pdb

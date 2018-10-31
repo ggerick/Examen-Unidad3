@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{715AC74B-D194-4D48-8436-2697250BDE45}|Default">
+  <MonoDevelop.Ide.ItemProperties.E3__EstDatos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Downloads/Operacion.cs">
+    <Files>
+      <File FileName="E3_EstDatos/Program.cs" Line="89" Column="13" />
+      <File FileName="../../Downloads/Operacion.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
