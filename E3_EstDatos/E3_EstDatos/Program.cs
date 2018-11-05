@@ -85,9 +85,26 @@ namespace E3_EstDatos
             //Cuando el programa haya terminado de leer la entrada, mostrar
             //Los contenidos de cada lista enlazada.
             //Revise que es un Identificador y que es un literal
+
+
+            Console.WriteLine("Subi a github la practica sin el ejercicio 2, posteriormente la hice e hice un commit y oush (actualizando segun yo" +
+                              ") y no lo veo refleado en el archivo de github de la pagina, esto es una prueba a ver si actualiza con este mensaje");
+
+            Console.WriteLine("Se perdio mi ejercicio 2...");
+        }
+        entificadores y literales en Otra lista enlazada.
+           //Cuando el programa haya terminado de leer la entrada, mostrar
+           //Los contenidos de cada lista enlazada.
+           //Revise que es un Identificador y que es un literal
+
+
+           Console.WriteLine("Subi a github la practica sin el ejercicio 2, posteriormente la hice e hice un commit y oush (actualizando segun yo" +
+                              ") y no lo veo refleado en el archivo de github de la pagina, esto es una prueba a ver si actualiza con este mensaje");
+
+            Console.WriteLine("Se perdio mi ejercicio 2...");
         }
 
-        public void Ejercicio3()
+    public void Ejercicio3()
         {
             //mida el tiempo entre Un lista ligada y una lista normal en el tiempo de ejecucion de 9876 elementos agregados.
 
